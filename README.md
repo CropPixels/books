@@ -1,2 +1,2 @@
 # books
-Code associated with books
+Code associated with courses and textbooks
