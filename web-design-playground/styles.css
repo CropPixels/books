@@ -1,0 +1,9 @@
+h1 {
+    font-size: 56px;
+}
+span {
+    background-color: yellow;
+}
+ul, ol, li {
+    list-style-type: square; /* Replace 'square' with your desired style */
+}
